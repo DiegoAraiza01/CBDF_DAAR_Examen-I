@@ -1,4 +1,4 @@
-package com.webdevelopment.u2_e2_Endpoints.controllers;
+package com.webdevelopment.Unidad2.u2_e2_Endpoints.controllers;
 
 import org.springframework.web.bind.annotation.*;
 

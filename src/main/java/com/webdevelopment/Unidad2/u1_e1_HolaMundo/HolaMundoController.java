@@ -1,4 +1,4 @@
-package com.webdevelopment.u1_e1_HolaMundo;
+package com.webdevelopment.Unidad2.u1_e1_HolaMundo;
 
 
 import org.springframework.web.bind.annotation.GetMapping;

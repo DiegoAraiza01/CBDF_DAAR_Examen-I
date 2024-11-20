@@ -1,4 +1,4 @@
-package com.webdevelopment.u2_e2_Endpoints;
+package com.webdevelopment.Unidad2.u2_e2_Endpoints;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
